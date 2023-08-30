@@ -1,4 +1,21 @@
-# Análisis de DIAs. Introducción a la deconstrucción de las DIAs [Lógica inversa] <keywords>eólica declaración incompatible</keywords>
+Fuente: README.md
+## listado de proyectos con dos o más DIAs negativas y de repente sale una positiva y valoración de que deberían haber sido negativas.
+
+PE Alpeñes
+PE STEV
+PE Canteras I
+RESOLUCIÓN del Director del Servicio Provincial de Industria, Competitividad y
+Desarrollo Empresarial de Teruel, relativo a la Autorización Administrativa Previa y de
+Construcción de la instalación “Parque Eólico El Frontón-modificado”, de 21,6 MW,
+promovido por Frontón Casting Renovables, S.L.U. Expediente TE-AT0033/14 https://www.aragon.es/documents/20127/90399635/RESOLUCION_simplificada+AAC_AAP_PE_EL_FRONTON_%28TE-AT0033_14%29.pdf/da690a82-404c-d092-d88a-983f8cf5c1b9?t=1637310762898
+
+Resolución de 24 de abril de 2023, de la Dirección General de Política Energética y Minas, por la que se otorga a Mowe Energía XII, SL, autorización administrativa previa para el parque eólico Valiente II, de 88,4 MW de potencia instalada, las líneas eléctricas subterráneas de 30 kV, la subestación eléctrica SET PE Valiente II 30/220 kV y la línea eléctrica aérea a 220 kV SET PE Valiente II-SET Esquedas 220 kV REE, en Gurrea de Gállego, Alcalá de Gurrea, Almudévar, Lupiñen-Ortilla y La Sotonera (Huesca).
+
+Publicado en:
+    «BOE» núm. 130, de 1 de junio de 2023
+
+
+## Análisis de DIAs. Introducción a la deconstrucción de las DIAs [Lógica inversa] <keywords>eólica declaración incompatible</keywords>
 Ante la avalancha de proyectos de energías renovables se constataba usualmente un protocolo común que finalizaba con la DIA positiva o negativa. Recientemente se ha observado que algunos PEs y PFVs seguían itinerarios diferentes:
 - DIAs positivos pese al impacto severo sobre la fauna
 - DIAs negativos que pasaban a positivos previo Recurso de Alzada STEV
